@@ -1,0 +1,9 @@
+{
+  "data": {
+    "next_question_id": 2,
+    "results": [
+      { "id": 1, "text": "Bleu", "percentage": 60 },
+      { "id": 2, "text": "Rouge", "percentage": 40 }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": [
+        {
+      "public_id": "survey_1",
+      "display_results": false,
+      "creator": "user_1",
+      "counter": 120,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 1,
+          "text": "Quelle est votre couleur préférée ?",
+          "show_results": false,
+          "choices": [
+            { "id": 101, "text": "Bleu", "percentage": 40.5, "is_escape": false },
+            { "id": 102, "text": "Rouge", "percentage": 35.2, "is_escape": false },
+            { "id": 3, "text": "Autre", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "survey_3",
+      "display_results": false,
+      "creator": "user_3",
+      "counter": 75,
+      "has_more_questions": false,
+      "questions": [
+        {
+          "id": 3,
+          "text": "Quel est votre sport préféré ?",
+          "show_results": false,
+          "choices": [
+            { "id": 301, "text": "Football", "percentage": 50.0, "is_escape": false },
+            { "id": 302, "text": "Basketball", "percentage": 30.5, "is_escape": false },
+            { "id": 3, "text": "Autre", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "survey_5",
+      "display_results": false,
+      "creator": "user_5",
+      "counter": 99,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 5,
+          "text": "Préférez-vous la mer ou la montagne ?",
+          "show_results": false,
+          "choices": [
+            { "id": 501, "text": "Mer", "percentage": 60.2, "is_escape": false },
+            { "id": 502, "text": "Montagne", "percentage": 39.8, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+     {
+      "public_id": "1713374910001",
+      "display_results": false,
+      "creator": "JohnDoe",
+      "counter": 123,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 1,
+          "text": "Dans un monde en constante évolution, la technologie influence notre quotidien de manière significative. Pensez-vous que l'intelligence artificielle remplacera la plupart des métiers dans les prochaines décennies ?",
+          "show_results": false,
+          "choices": [
+            { "id": 1, "text": "Oui", "percentage": 52.3, "is_escape": false },
+            { "id": 2, "text": "Non", "percentage": 47.7, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "survey_4",
+      "display_results": true,
+      "creator": "user_4",
+      "counter": 88,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 4,
+          "text": "Préférez-vous les chats ou les chiens ?",
+          "show_results": true,
+          "choices": [
+            { "id": 401, "text": "Chats", "percentage": 52.3, "is_escape": false },
+            { "id": 402, "text": "Chiens", "percentage": 47.7, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+        {
+      "public_id": "survey_48",
+      "display_results": true,
+      "creator": "user_4",
+      "counter": 88,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 4,
+          "text": "En France, il existe 5 niveaux politiques et administratifs : le niveau national, le niveau régional, le niveau départemental, le niveau intercommunal et le niveau communal. Afin de réduire la dépense publique, seriez-vous favorable ou opposé à la suppression d’un de ces niveaux ? Et si oui lequel ?",
+          "show_results": false,
+          "choices": [
+            { "id": 401, "text": "Oui", "percentage": 52.3, "is_escape": false },
+            { "id": 402, "text": "Non", "percentage": 47.7, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "1713374910002",
+      "display_results": false,
+      "creator": "JaneSmith",
+      "counter": 89,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 2,
+          "text": "Les réseaux sociaux jouent un rôle clé dans la communication moderne. Pensez-vous qu'ils ont un impact plus positif ou négatif sur la société et sur les relations humaines en général ?",
+          "show_results": false,
+          "choices": [
+            { "id": 1, "text": "Impact positif", "percentage": 41.2, "is_escape": false },
+            { "id": 2, "text": "Impact négatif", "percentage": 58.8, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "1713374910003",
+      "display_results": false,
+      "creator": "AliceBrown",
+      "counter": 67,
+      "has_more_questions": false,
+      "questions": [
+        {
+          "id": 3,
+          "text": "Avec l'augmentation du télétravail, de nombreuses entreprises adoptent un modèle hybride. Selon vous, cette évolution améliore-t-elle réellement la productivité et le bien-être des employés sur le long terme ?",
+          "show_results": false,
+          "choices": [
+            { "id": 1, "text": "Oui", "percentage": 60.1, "is_escape": false },
+            { "id": 2, "text": "Non", "percentage": 39.9, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "survey_2",
+      "display_results": false,
+      "creator": "user_2",
+      "counter": 95,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 2,
+          "text": "Quel est votre plat préféré ?",
+          "show_results": false,
+          "choices": [
+            { "id": 201, "text": "Pizza", "percentage": 60.5, "is_escape": false },
+            { "id": 202, "text": "Sushi", "percentage": 25.3, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "1713374910004",
+      "display_results": false,
+      "creator": "BobWilliams",
+      "counter": 42,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 4,
+          "text": "L'écologie est un enjeu majeur pour l'avenir de notre planète. Pensez-vous que les gouvernements en font assez pour lutter contre le réchauffement climatique, ou devraient-ils prendre des mesures plus radicales ?",
+          "show_results": false,
+          "choices": [
+            { "id": 1, "text": "Ils en font assez", "percentage": 22.5, "is_escape": false },
+            { "id": 2, "text": "Des mesures plus radicales sont nécessaires", "percentage": 77.5, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+   {
+      "public_id": "survey_6",
+      "display_results": false,
+      "creator": "user_6",
+      "counter": 110,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 6,
+          "text": "Quel est votre réseau social préféré ?",
+          "show_results": false,
+          "choices": [
+            { "id": 601, "text": "Instagram", "percentage": 45.0, "is_escape": false },
+            { "id": 602, "text": "Twitter", "percentage": 20.5, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "1713374910005",
+      "display_results": false,
+      "creator": "CharlieGreen",
+      "counter": 58,
+      "has_more_questions": false,
+      "questions": [
+        {
+          "id": 5,
+          "text": "Les avancées médicales permettent aujourd'hui de prolonger la vie de manière significative. Pensez-vous que nous devrions fixer une limite à l'extension de la durée de vie humaine, ou laisser la science avancer librement ?",
+          "show_results": false,
+          "choices": [
+            { "id": 1, "text": "Fixer une limite", "percentage": 35.7, "is_escape": false },
+            { "id": 2, "text": "Laisser avancer la science", "percentage": 64.3, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "survey_7",
+      "display_results": false,
+      "creator": "user_7",
+      "counter": 66,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 7,
+          "text": "Aimez-vous le café ou le thé ?",
+          "show_results": false,
+          "choices": [
+            { "id": 701, "text": "Café", "percentage": 70.0, "is_escape": false },
+            { "id": 702, "text": "Thé", "percentage": 30.0, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "survey_8",
+      "display_results": false,
+      "creator": "user_8",
+      "counter": 77,
+      "has_more_questions": false,
+      "questions": [
+        {
+          "id": 8,
+          "text": "Quel est votre genre de musique préféré ?",
+          "show_results": false,
+          "choices": [
+            { "id": 801, "text": "Pop", "percentage": 50.0, "is_escape": false },
+            { "id": 802, "text": "Rock", "percentage": 25.5, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "survey_9",
+      "display_results": false,
+      "creator": "user_9",
+      "counter": 112,
+      "has_more_questions": true,
+      "questions": [
+        {
+          "id": 9,
+          "text": "Quel est votre saison préférée ?",
+          "show_results": false,
+          "choices": [
+            { "id": 901, "text": "Été", "percentage": 55.5, "is_escape": false },
+            { "id": 902, "text": "Hiver", "percentage": 44.5, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "survey_10",
+      "display_results": false,
+      "creator": "user_10",
+      "counter": 100,
+      "has_more_questions": false,
+      "questions": [
+        {
+          "id": 10,
+          "text": "Quel est votre moyen de transport préféré ?",
+          "show_results": false,
+          "choices": [
+            { "id": 1001, "text": "Voiture", "percentage": 65.0, "is_escape": false },
+            { "id": 1002, "text": "Vélo", "percentage": 35.0, "is_escape": false },
+            { "id": 3, "text": "Je n'ai pas d'avis", "percentage": 47.7, "is_escape": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
